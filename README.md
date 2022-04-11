@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50%;" src="https://www.canva.com/design/DAE9n2DK_QY/SHZEY81FDE6xNC5VcUOZuA/view?utm_content=DAE9n2DK_QY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50%;" src="https://www.canva.com/design/DAE9n2DK_QY/watch">
 </div>
 
 ##
