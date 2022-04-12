@@ -19,7 +19,6 @@
   <img align="center" alt="Rei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rei-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="Rei-pic" height="150" style="border-radius:50%;" src="https://www.freevector.com/uploads/vector/preview/27361/small_1x_Hardisk_vector_2.jpg">
 </div>
 
 ##
