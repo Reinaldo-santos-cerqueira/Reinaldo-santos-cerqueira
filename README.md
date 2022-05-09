@@ -1,7 +1,7 @@
 ## Hi i'm Reinaldo Santos 
 
 - 👨‍💻 I’m currently working at SGN as a Full Stack developer Mobile and Web
-- 📖 I’m currently learning React native and React JS
+- 📖 I’m currently learning React native, React JS and Node
 - 📩 Contact me Email: kingnaldoreinaldo@gmail.com
 <div align="center">
   <a href="https://github.com/Reinaldo-santos-cerqueira">
