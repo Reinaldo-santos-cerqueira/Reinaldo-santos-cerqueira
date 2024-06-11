@@ -1,8 +1,8 @@
 ## Hi i'm Reinaldo Santos 
 
-- 👨‍💻 I’m currently working at SGN as a Full Stack developer Mobile and Web
-- 📖 I'm specializing in React native and React JS
-- 📩 Contact me Email: kingnaldoreinaldo@gmail.com
+- 👨‍💻 I’m currently working at Organize sol arquivos e documentos as a systems analyst
+- 📖 I'm specializing in React native and React JS to fornt-end and Java Spring boot to back-end
+- 📩 Contact me Email: reinaldodevcontato@gmail.com
 - 🌐 My site [https://reinaldosantos.dev](https://reinaldosantos.dev/)
 <div align="center">
   <a href="https://github.com/Reinaldo-santos-cerqueira">
