@@ -1,6 +1,6 @@
 ## Hi i'm Reinaldo Santos 
 
-- 👨‍💻 I’m currently working at Organize sol arquivos e documentos as a systems analyst
+- 👨‍💻 I’m currently working at Compass UOL as a systems analyst
 - 📖 I'm specializing in React native and React JS to fornt-end and Java Spring boot to back-end
 - 📩 Contact me Email: reinaldodevcontato@gmail.com
 - 🌐 My site [https://reinaldosantos.dev](https://reinaldosantos.dev/)
